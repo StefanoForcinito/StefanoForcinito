@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
 <h3 align="center">Hello everyone, I'm Stefano, I love this job, IT work and developing various types of software, I'm a precise person in my work when we are assigned a project.</h3>
+<h2>Abount me</h2>
+
+🔭 &nbsp; I’m currently learning Java back-end Application in Develhope accademy<br>
+🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks..<br>
+🌱 &nbsp; Enthusiast in web development  and Artificial Intelligence .<br>
+✍️ &nbsp;  My Hobby :Watching Anime,play videogames and camping.<br>
+☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.<br>
+
+
+<h3>🛠 Tech Stack</h3>
+
+💻 &nbsp; Maven | SpringWeb | Java | Jpa
+🌐 &nbsp; MySql | GitFlow | RestAPI| JavaScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
